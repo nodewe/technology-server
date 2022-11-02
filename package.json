@@ -17,7 +17,6 @@
     "jsonwebtoken": "^8.5.1",
     "md5": "^2.3.0",
     "node-rsa": "^1.1.1",
-    "nodejs-captcha": "0.0.6",
     "svg-captcha": "^1.4.0"
   },
   "devDependencies": {
